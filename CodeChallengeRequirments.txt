@@ -1,0 +1,52 @@
+﻿The task for the challenge is to to implement a simple vector graphic viewer:
+
+Main Task
+1. The vector graphic viewer should read data from JSON file and display the result on the screen.
+2. The viewer can show primitives of the following types:
+a. Line. A line is described by coordinates of edges and color.
+b. Circle. A circle is described by coordinates of center, radius, color and fill flag (if the
+circle is filled or not).
+c. Triangle. A triangle is described by coordinates of edges, color and fill flag.
+3. Data types:
+a. Color is represented as ARGB value.
+b. Coordinate is represented as a pair of floats X and Y. The coordinate system is Cartesian:
+
+4. As X and Y can be any valid float numbers and window size is limited to a screen resolution, all
+primitives should be automatically and proportionally scaled to be fit for the window.
+
+Desing note
+The solution should be designed in the way, that the following requirements could be easly
+implemented in the future:
+1. To design and implement rectangles processing.
+The fourth type of primitives, the rectangle, should be introduced to the application.
+2. To implement other data source reading.
+In addition to the JSON input file format, the application should be able to read a primitive list
+from other data source (e.g. XML files).
+3. To select primitives with mouse clicks and show properties.
+The user should be able to click onto the primitive to see its properties (points, color, line type).
+
+Simple example of input file
+There is a simple example of input file representing a list of three primitives (line, circle and triangle):
+[
+{
+"type": "line",
+"a": "-1,5; 3,4",
+"b": "2,2; 5,7",
+"color": "127; 255; 255; 255"
+},
+{
+"type": "circle",
+"center": "0; 0",
+"radius": 15.0,
+"filled": false,
+"color": "127; 255; 0; 0"
+},
+{
+"type": "triangle",
+"a": "-15; -20",
+"b": "15; -20,3",
+"c": "0; 21",
+"filled": true,
+"color": "127; 255; 0; 255"
+}
+]

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\bin\Debug\net6.0\Parsers.deps.json
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\bin\Debug\net6.0\Parsers.dll
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\bin\Debug\net6.0\ref\Parsers.dll
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\bin\Debug\net6.0\Parsers.pdb
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\Parsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\Parsers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\Parsers.AssemblyInfo.cs
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\Parsers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\Parsers.dll
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\ref\Parsers.dll
+C:\Users\User\source\repos\WSCADCodeChallange2022\Parsers\obj\Debug\net6.0\Parsers.pdb
