@@ -1,5 +1,5 @@
 # WSCADCodeChallenge2022
-melikegulenotnu.Hi,
+Hi,
 I have to write some explanation about the project.
 
 First
